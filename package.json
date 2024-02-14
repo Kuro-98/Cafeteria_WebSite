@@ -1,0 +1,23 @@
+{
+    "name": "cafeteria",
+    "version": "1.0.0",
+    "description": "Aprendiendo SASS, Gulp y CSS ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Manolo Morales",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^10.4.17",
+        "gulp": "^4.0.2",
+        "gulp-postcss": "^10.0.0",
+        "gulp-sass": "^5.1.0",
+        "postcss": "^8.4.35",
+        "sass": "^1.70.0"
+    },
+    "browserslist": [
+        "last 1 version",
+        "> 1%"
+    ]
+}
