@@ -31,16 +31,30 @@
 
 .header-inicio {
 	background-image: url('../img/header_inicio.jpg');
+	background-attachment: fixed;
 }
 
 .header-nosotros {
 	background-image: url('../img/header_nosotros.jpg');
+	background-attachment: fixed;
 }
 
 .header-proceso {
 	background-image: url('../img/header_proceso.jpg');
+	background-attachment: fixed;
 }
 
 .header-menu {
 	background-image: url('../img/header_menu.jpg');
+	background-attachment: fixed;
+}
+
+.header-galeria {
+	background-image: url('../img/header_galeria.jpg');
+	background-attachment: fixed;
+}
+
+.header-contacto {
+	background-image: url('../img/header_contacto.jpg');
+	background-attachment: fixed;
 }
