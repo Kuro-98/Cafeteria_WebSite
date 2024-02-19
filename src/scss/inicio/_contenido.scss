@@ -2,11 +2,11 @@
 @use 'base/mixins' as m;
 
 .contenido-principal {
-    background-color: v.$blanco;
-    padding: 5rem 2rem;
-    @include m.tablet {
-        padding: 10rem;
-        margin-top: -10rem;
-        position: relative;
-    }
+	background-color: v.$blanco;
+	padding: 5rem 2rem;
+	@include m.tablet {
+		padding: 10rem;
+		margin-top: -10rem;
+		position: relative;
+	}
 }
